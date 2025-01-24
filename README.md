@@ -15,7 +15,7 @@ They’ve asked you to help them straighten out the pipeline, set up more contro
 # Requirements
 1. Create a new repo and add the exercise files. Run and observe the provided workflow.
 1. Edit the workflow to place the jobs in order.
-1. Configure the following environments:
+1. Configure the following environments: 
 
     - Development
     - Staging
